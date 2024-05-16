@@ -2,7 +2,7 @@ package Algorithms;
 
 import java.util.Scanner;
 
-public class Factorial {
+public class FactorialRecurursiveOption {
     public final static Scanner SCANNER = new Scanner(System.in);
 
     public static void main(String[] args){
