@@ -7,7 +7,7 @@ package JavaProgrammingPractice;
 
 import java.util.Scanner;
 
-public class task1Operations {
+public class Task1Operations {
     public static void main(String[] args) {
         Scanner SCANNER = new Scanner(System.in);
         System.out.println("Put the first number:");
